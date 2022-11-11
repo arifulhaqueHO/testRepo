@@ -9,7 +9,7 @@ body:
       value: |
         Thanks for taking the time to fill out this bug report!
         
-   - type: checkboxes
+  - type: checkboxes
     id: terms
     attributes:
       label: Code of Conduct
